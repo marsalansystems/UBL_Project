@@ -1,0 +1,39 @@
+{
+ "serviceHeader": {
+  "channel": "GNB",
+  "processingType": "SYNCHRONOUS",
+  "authInfo": {
+   "authenticationType": "string",
+   "username": "CBS",
+   "password": "WCclu7K2tjxwKHDQKHA7XbZCcCYCPvfD6mzMuvk/SfA51rMZ1ZYsjXKJt0NPxAI8",
+   "authKey": "3k7NwtySB7lFBbECcUrCaXiaoq6GVIY+U/bjiQ/FzMa80ckdJWnXp/vi21uYudSnBEIHjJ3/wuMlpbPRdiK4qp/d1kPla48+0UNtz4Ria78u7XaJX4N3oktCF53V/p6UEPRwxmSGFqAARaBxOnr+bJ3LxWTDyhg5rJlmO2Vu0D8="
+  }
+ },
+ "transactionInfo": {
+  "transactionType": "ACCOUNT_MAINTENANCE",
+  "transactionSubType": "RESTRAINT",
+  "referenceId": "09ca9ab1-8f4b-4b56-9268-bad17179c9a4",
+  "transactionDate": "2018-03-05",
+  "transactionTime": "00:00:00",
+  "stan": "123456",
+  "transmissionDateTime": "2018-03-05T11:10:10",
+  "narration": "idk",
+  "attributeList": [
+   {
+    "attributeKey": "appCode",
+    "attributeValue": "RESINQ"
+   },
+   {
+    "attributeKey": "workstation",
+    "attributeValue": "HAIDERPC"
+   },
+   {
+    "attributeKey": "screenNo",
+    "attributeValue": "SOA"
+   }
+  ]
+ },
+ "restraintInquiryRequest": {
+  "accountNo": "187201016446"
+ }
+}
