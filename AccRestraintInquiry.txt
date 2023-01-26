@@ -5,14 +5,14 @@
   "authInfo": {
    "authenticationType": "string",
    "username": "CBS",
-   "password": "VHSMzk8ICIJu3ztxRrLu0neMvyYqSQUG5kphjChzCJudbJ7uVze0x1hmfgdY1PyW",
-   "authKey": "R16yts9sds7Bd8SGILvUB4j2T2UcqiyhBf0o9bhBlK2FDMxcUO6O0WDVO2Gp1A9ps5OtxjU/1pBrS+FLX/REGH9zx+u47KfqhWGGzyA4B2e4N3wo3JjHj6gOR/N/KsJ6lXhafipRo4RMosKxKTdZG+keDFOy9nfg7Imi8dS6QZY="
+   "password": "QwI7gFeLoCcrJnb9XPfFkcFbNYv+nPPnkrQx37XRvEV6C6nZ1TA2t2MObQtPNc5",
+   "authKey": "5JQ3wYbw3uNj+PuNWKRpSq/JVeBrNnHVAKTAAdcL7BRDi6NyPBawOSYcGW01rSFGrPpB/IfEl6aMvfEmtZODAxbPwU597JVaZSyVA/3Rief4Li3Wrdm65ollDWgQ7f8Cbud4ozKt5py5DdJXYa62Pc2H5xCKIAuFVjBxprMX5QU="
   }
  },
  "transactionInfo": {
   "transactionType": "ACCOUNT_MAINTENANCE",
   "transactionSubType": "RESTRAINT",
-  "referenceId": "cda489b7-16da-46b9-bfa5-214e0ff0be3e",
+  "referenceId": "14222fd3-1dfc-4393-8e3b-1597a0541893",
   "transactionDate": "2018-03-05",
   "transactionTime": "00:00:00",
   "stan": "123456",
