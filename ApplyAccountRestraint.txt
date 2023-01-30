@@ -1,0 +1,49 @@
+{
+ "serviceHeader": {
+  "channel": "GNB",
+  "processingType": "SYNCHRONOUS",
+  "authInfo": {
+   "authenticationType": "string",
+   "username": "CBS",
+   "password": "SOA123",
+   "authKey": "123"
+  }
+ },
+ "transactionInfo": {
+  "transactionType": "ACCOUNT_MAINTENANCE",
+  "transactionSubType": "RESTRAINT",
+  "referenceId": "ece9c0e1-b880-47db-a052-2ff31dbaf45b",
+  "transactionDate": "2018-03-05",
+  "transactionTime": "00:00:00",
+  "stan": "123456",
+  "transmissionDateTime": "2018-03-05T11:10:10",
+  "narration": "idk",
+  "attributeList": [
+   {
+    "attributeKey": "appCode",
+    "attributeValue": "RESAPL"
+   },
+   {
+    "attributeKey": "workstation",
+    "attributeValue": "HAIDERPC"
+   },
+   {
+    "attributeKey": "screenNo",
+    "attributeValue": "SOA"
+   }
+  ]
+ },
+ "restraintMarkingRequest": {
+  "accountNo": "187201016446",
+  "accountRestraint": {
+   "position": "1",
+   "startDate": "17-05-2019",
+   "endDate": "17-05-2020",
+   "restraintType": "INC",
+   "startChequeNo": "612000",
+   "endChequeNo": "612000",
+   "lastChangeOfficer": "CBS",
+   "narrative": "STOP CHEQUE BY SOA"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "serviceHeader": {
+  "channel": "GNB",
+  "processingType": "SYNCHRONOUS",
+  "authInfo": {
+   "authenticationType": "string",
+   "username": "CBS",
+   "password": "ali",
+   "authKey": "123"
+  }
+ },
+ "transactionInfo": {
+  "transactionType": "ACCOUNT_MAINTENANCE",
+  "transactionSubType": "RESTRAINT",
+  "referenceId": "e8540595-0653-4e7f-94bb-a31f27e132f6",
+  "transactionDate": "2018-03-05",
+  "transactionTime": "00:00:00",
+  "stan": "123456",
+  "transmissionDateTime": "2018-03-05T11:10:10",
+  "narration": "idk",
+  "attributeList": [
+   {
+    "attributeKey": "appCode",
+    "attributeValue": "RESINQ"
+   },
+   {
+    "attributeKey": "workstation",
+    "attributeValue": "HAIDERPC"
+   },
+   {
+    "attributeKey": "screenNo",
+    "attributeValue": "SOA"
+   }
+  ]
+ },
+ "restraintInquiryRequest": {
+  "accountNo": "187201016446"
+ }
+}
